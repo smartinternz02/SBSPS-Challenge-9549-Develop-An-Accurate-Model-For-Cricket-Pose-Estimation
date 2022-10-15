@@ -13,7 +13,7 @@ MediaPipe for Pose detection, Sequential, LSTM Model, Dense Layers, Anvil server
 
 # How to use - 
 1. Download the code folder, upload it on jupyter notebook
-2. open a new notebook and type command 'pip install anvil-uplink'R
+2. open a new notebook and type command 'pip install anvil-uplink'
 3. Run 'main' python notebook.
 4. Go to link - https://cricket-pose-estimation.anvil.app/
 5. use 'username : admin' 'password : admin'.
