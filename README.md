@@ -22,6 +22,9 @@ MediaPipe for Pose detection, Sequential, LSTM Model, Dense Layers, Anvil server
 # Presentation - 
 https://docs.google.com/presentation/d/1lFDxPFsIes2Ur_sxeGVKMykgumzG1LBsN8nqszZ2h6w/edit?usp=sharing
 
+# Report -
+https://docs.google.com/document/d/1p5DZL1hvA8OGV8vO6kvmohpj4_ISxbNx1_yvyYGbw1E/edit?usp=sharing
+
 # Dataset - 
 1. Cricket pose video is the folder consiting of folders comprising videos of that specific shot
 2. Preprocessing was done via 'preprocessing.ipynb' notebook , to convert the frames from these vides to .npy format and then use them again while model creation.
