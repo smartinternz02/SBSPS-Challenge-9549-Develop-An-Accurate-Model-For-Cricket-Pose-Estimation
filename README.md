@@ -1,6 +1,6 @@
 # SBSPS-Challenge-9549-Develop-An-Accurate-Model-For-Cricket-Pose-Estimation
 # Cricket Pose Estimation is a model - 
-Used to predict the batting shots in images, videos or in livestreams.
+Used to predict the batting shots in videos or in livestreams.
 Assist cricketers in analyzing their posture while playing for a Cricket shot and help them to monitor their pose after rehab.
 It may also be used to maintain track of every player's performance in matches by monitoring their batting shot in relation to a certain baller and ball shot. It can then be used to assess each player's performance and help them become better via training. 
 It may also be used to monitor the batting styles of the opposing team's players so that bowling and fielding strategies can be adjusted. 
@@ -17,7 +17,7 @@ MediaPipe for Pose detection, Sequential, LSTM Model, Dense Layers, Anvil server
 3. Run 'main' python notebook.
 4. Go to link - https://cricket-pose-estimation.anvil.app/
 5. use 'username : admin' 'password : admin'.
-6. Chose the specific option you want to go with, upload image/video or want to detect cricket pose via livestream.
+6. Chose the specific option you want to go with, upload video or want to detect cricket pose via livestream.
 
 # Presentation - 
 https://docs.google.com/presentation/d/1lFDxPFsIes2Ur_sxeGVKMykgumzG1LBsN8nqszZ2h6w/edit?usp=sharing
